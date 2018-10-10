@@ -18,10 +18,10 @@ int main()
 	float *data;
 	int num_of_data = 10000;
 
-	/* Create the 10K float point numbers for sorting */
+	/* Create the 10K float point numbers randomly for sorting */
 	data = generate_float_data(num_of_data);
 
-	/* sorting with different methods and runturn their running times */
+	/* sorting with different methods and return their running times */
 	run_time.insert_sort = insertion_sort(data, num_of_data);
 	run_time.shell_sort = shell_sort(data, num_of_data);
 	run_time.heap_sort = heap_sort(data, num_of_data);
