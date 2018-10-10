@@ -1,5 +1,5 @@
 # Sorting
-This project includes five different general sorting algorithms: Insertion sort, Shellsort, Heapsort, Mergesort, and Quicksort. A set of 10K floating point numbers will be sorted by them, and their running times will be compared.
+This project includes five different general sorting algorithms: Insertion sort, Shellsort, Heapsort, Mergesort, and Quicksort. A set of 10K integer numbers will be sorted by them, and their running times will be compared.
 
 ## File list
 1. main.cpp
