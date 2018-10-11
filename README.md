@@ -19,4 +19,5 @@ This project includes five different general sorting algorithms. A set of 10K in
 8. merge_sort.cpp
 9. quick_sort.cpp
 
-*Reference：Mark Allen Weiss, Data structures and algorithm analysis in C++（Third Edition）
+## Reference
+Mark Allen Weiss, Data structures and algorithm analysis in C++（Third Edition）
