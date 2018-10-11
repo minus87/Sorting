@@ -1,6 +1,12 @@
 # Sorting
 This project includes five different general sorting algorithms. A set of 10K integer numbers will be sorted by them, and their running times will be compared.
-* Insertion sort, Shell sort, Bubble sort, selectio sort, Heap sort, Merge sort, and Quicksort. 
+* Insertion sort
+* Shell sort
+* Bubble sort
+* Selectio sort
+* Heap sort
+* Merge sort
+* Quicksort. 
 
 ## File list
 1. main.cpp
@@ -13,4 +19,4 @@ This project includes five different general sorting algorithms. A set of 10K in
 8. merge_sort.cpp
 9. quick_sort.cpp
 
-*Reference：Mark Allen Weiss, Data structures and algorithm analysis in C++（Third Edition）
+###Reference：Mark Allen Weiss, Data structures and algorithm analysis in C++（Third Edition）
