@@ -1,6 +1,5 @@
 # Sorting
-This project includes different general sorting algorithms. 
-A set of 10K integer numbers will be generated randomly and sorted.
+This project includes different general sorting algorithms. A set of 10K integer numbers will be generated randomly and sorted by all these algorithms.
 * Insertion sort
 * Shell sort
 * Bubble sort
