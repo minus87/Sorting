@@ -1,5 +1,6 @@
 # Sorting
-This project includes five different general sorting algorithms. A set of 10K integer numbers will be sorted by them, and their running times will be compared.
+This project includes different general sorting algorithms. 
+A set of 10K integer numbers will be generated randomly and sorted.
 * Insertion sort
 * Shell sort
 * Bubble sort
@@ -19,5 +20,5 @@ This project includes five different general sorting algorithms. A set of 10K in
 8. merge_sort.cpp
 9. quick_sort.cpp
 
-## Reference
-Mark Allen Weiss, Data structures and algorithm analysis in C++（Third Edition）
+### Reference
+`Mark Allen Weiss, Data structures and algorithm analysis in C++（Third Edition）`
